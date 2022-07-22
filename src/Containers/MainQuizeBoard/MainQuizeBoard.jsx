@@ -52,7 +52,8 @@ const MainQuizeBoard = ({ quizCount }) => {
     allQuizData.forEach((quizData) => {
       if (!quizData.quizInProgress) {
         cumulativeScore = cumulativeScore + quizData.correctAnswersCount;
-      } else {
+      }
+      if (quizData.quizInProgress || quizData.answersData.length) {
         disableForm = true;
       }
     });

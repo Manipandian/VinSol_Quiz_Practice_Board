@@ -44,7 +44,8 @@ const Question = ({
     const correctAnswer = Math.round(
       Function('return ' + number1 + OPERATORS[randomOperator] + number2)()
     );
-    const userAnswer = Math.round(Number(userInput)) === correctAnswer;
+    const userAnswer =
+      userInput && Math.round(Number(userInput)) === correctAnswer;
     setQuestionTimeValue(QUESTION_INTERVAL_TIME);
     setUserInput('');
     answerCallBack({
