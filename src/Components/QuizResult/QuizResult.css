@@ -1,0 +1,10 @@
+.result-data {
+    font-size: 16px;
+    font-weight: 500;
+    padding: 6px;
+    text-align: left;
+}
+
+.wrong-answer {
+    color: red;
+}

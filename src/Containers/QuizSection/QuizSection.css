@@ -1,0 +1,15 @@
+.quiz-section {
+    border: 1px solid black;
+    height: 55vh;
+    padding: 8px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: left;
+    overflow-y: auto;
+}
+
+.question-text {
+    font-size: 21px;
+    font-weight: bold;
+}
