@@ -8,7 +8,7 @@ export const OPERATORS = {
 export const QUESTION_INTERVAL_TIME = 20;
 
 export const QUIZ_DEFAULT_INFO = {
-  questions: 10,
+  questions: 20,
   range: 10,
   operators: Object.keys(OPERATORS),
 };

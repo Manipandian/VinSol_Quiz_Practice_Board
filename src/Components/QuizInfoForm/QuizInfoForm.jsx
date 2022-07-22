@@ -40,6 +40,7 @@ const QuizInfoForm = ({
           type="number"
           label="Max Number Range"
           variant="outlined"
+          InputProps={{ inputProps: { min: 0, max: 15 } }}
           value={quizInfo.range}
           disabled={disableForm}
           onChange={(e) => setQuizeInfo(Number(e.target.value), 'range')}
