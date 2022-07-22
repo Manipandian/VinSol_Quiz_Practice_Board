@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/VinSol_Quiz_Practice_Board/static/css/main.cd6aaa01.css",
-    "main.js": "/VinSol_Quiz_Practice_Board/static/js/main.1149ab2f.js",
+    "main.css": "/VinSol_Quiz_Practice_Board/static/css/main.af865d10.css",
+    "main.js": "/VinSol_Quiz_Practice_Board/static/js/main.06415780.js",
     "static/js/787.69135deb.chunk.js": "/VinSol_Quiz_Practice_Board/static/js/787.69135deb.chunk.js",
     "index.html": "/VinSol_Quiz_Practice_Board/index.html",
-    "main.cd6aaa01.css.map": "/VinSol_Quiz_Practice_Board/static/css/main.cd6aaa01.css.map",
-    "main.1149ab2f.js.map": "/VinSol_Quiz_Practice_Board/static/js/main.1149ab2f.js.map",
+    "main.af865d10.css.map": "/VinSol_Quiz_Practice_Board/static/css/main.af865d10.css.map",
+    "main.06415780.js.map": "/VinSol_Quiz_Practice_Board/static/js/main.06415780.js.map",
     "787.69135deb.chunk.js.map": "/VinSol_Quiz_Practice_Board/static/js/787.69135deb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cd6aaa01.css",
-    "static/js/main.1149ab2f.js"
+    "static/css/main.af865d10.css",
+    "static/js/main.06415780.js"
   ]
 }
